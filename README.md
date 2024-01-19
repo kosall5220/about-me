@@ -38,6 +38,7 @@ Here are some of the work I completed in SEP10:
 
 [Freedom Project](https://github.com/kosall5220/sep10-freedom-project)
 
+Reviewed by Keith Hau
 ---
 
 
